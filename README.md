@@ -2,6 +2,6 @@
 
 Used MATLAB for Image Processing and Analysis. Designed and Analyzed Image processing algorithms.
 
-*Software Used*
+*Software*
 ---------------------
 MATLAB
